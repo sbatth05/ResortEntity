@@ -1,0 +1,6 @@
+D:\aPRL-mAY\ResortEntity\Database\bin\Debug\Database.dll
+D:\aPRL-mAY\ResortEntity\Database\bin\Debug\Database.pdb
+D:\aPRL-mAY\ResortEntity\Database\obj\Debug\Database.csprojAssemblyReference.cache
+D:\aPRL-mAY\ResortEntity\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\aPRL-mAY\ResortEntity\Database\obj\Debug\Database.dll
+D:\aPRL-mAY\ResortEntity\Database\obj\Debug\Database.pdb
